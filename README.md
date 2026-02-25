@@ -1,7 +1,7 @@
 # Third Party Risk Management (TPRM) Portfolio
 
 ## Objective
-This project simulates an end-to-end Third Party Risk Management lifecycle for a financial services organization.
+This project simulates the real scenarios of an end-to-end Third Party Risk Management lifecycle for a financial services organization.
 
 ## Scope
 - Vendor onboarding
